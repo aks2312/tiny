@@ -1,0 +1,479 @@
+#EXTM3U    x-tvg-url="http://botallen.live/epg.xml.gz" 
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts148  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png   group-title=Hindi Movies,   &pictures HD
+https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
+
+
+
+
+#EXTINF:-1  tvg-id=ts48  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v2/imageContent-141-j5fpeji0-m2.png   group-title=Entertainment Hindi,   SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts503  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png   group-title=Hindi Movies,   Zee Cinema HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinemahd 
+
+
+
+#EXTINF:-1  tvg-id=ts40  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png   group-title=Entertainment Hindi,   &tv HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvhd_0
+
+
+
+#EXTINF:-1  tvg-id=ts72  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png   group-title=Hindi News,   REPUBLIC TV
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-162
+
+
+#EXTINF:-1  tvg-id=ts632  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png   group-title=Hindi Movies,   Star GOLD HD
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts106  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png   group-title=Hindi News,   News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+
+#EXTINF:-1  tvg-id=ts950  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png   group-title=Hindi News,   ET Now Swadesh
+https://timesnowhindi-i.akamaihd.net/hls/live/1023684-b/swadeshtemp/chunklist_1.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts32  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v2/imageContent-93-j5fjv614-m2.png   group-title=ENG Movies,   SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts136  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png   group-title=Lifestyle,   GOOD TiMES
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts322  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11333-j9joxlw8-v2/imageContent-11333-j9joxlw8-m2.png   group-title=News,   DD News
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-ddnews 
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts326  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png   group-title=Knowledge,   DD Kisan
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-ddkisan
+
+
+#EXTINF:-1  tvg-id=ts245  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png   group-title=Movies,   STAR GOLD HD
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts80  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v2/imageContent-243-j5fyl2f4-m2.png   group-title=Hindi Movies,   SONY MAX HD-1
+https://rebrand.ly/maxhd-1
+
+#EXTINF:-1  tvg-id=ts80  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v2/imageContent-243-j5fyl2f4-m2.png   group-title=Hindi Movies,   SONY MAX HD-2
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts727  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png   group-title=Movies,   Zee Classic
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeclassic 
+
+
+#EXTINF:-1  tvg-id=ts191  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png   group-title=Entertainment,   DD National HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-250 
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d
+#EXTINF:-1  tvg-id=ts61  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png   group-title=Hindi Movies,   Colors Cineplex HD VOOT
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+
+#EXTINF:-1  tvg-id=ts61  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png   group-title=Hindi Movies,   Colors Cineplex HD Jio
+https://rebrand.ly/Cineplex-Hd
+
+
+
+
+#EXTINF:-1  tvg-id=ts173  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png   group-title=Movies,   Movies Now
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts504  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11918-j9l5dbgg-v4/imageContent-11918-j9l5dbgg-m7.png   group-title=Lifestyle,   Zee Zest
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-348
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts213  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png   group-title=News,   Sansad TV
+https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
+
+
+
+
+#EXTINF:-1  tvg-id=ts245  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png   group-title=Movies,   STAR GOLD HD
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts530  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11165-j9ht50s8-v2/imageContent-11165-j9ht50s8-m5.png   group-title=English Movies,   &Prive HD
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts188  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-783-j5m4qkww-v1/imageContent-783-j5m4qkww-m1.png   group-title=English News,   BBC World
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-339 
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts2  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6-j5f5oyqw-v2/imageContent-6-j5f5oyqw-m2.png   group-title=Lifestyle,   Travel XP 
+https://rebrand.ly/travel-hd
+
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", group-title=Lifestyle, 4K Nature
+https://rebrand.ly/Nature-4k
+
+
+
+#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png", group-title=Lifestyle,Love Nature HD
+https://rebrand.ly/Nature-4k
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts413  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png   group-title=Knowledge,   Nat Geo Wild HD
+
+
+
+#EXTINF:-1  tvg-id=ts123  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png   group-title=Hindi Movies,   Zee Cinema
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinema
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts502  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11927-j9l5h5ko-v2/imageContent-11927-j9l5h5ko-m2.png   group-title=Entertainment,   Zee Cafe HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecafehd 
+
+
+
+
+#EXTINF:-1  tvg-id=ts460  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v2/imageContent-11779-j9kx7rk0-m2.png   group-title=Knowledge,   SONY BBC Earth HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts267  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png   group-title=Hindi Movies,   &pictures HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd 
+
+
+
+#EXTINF:-1  tvg-id=ts243  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png   group-title=English News,   CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts255  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png   group-title=English News,   WION
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-wion 
+
+
+
+
+#EXTINF:-1  tvg-id=ts1  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png   group-title=English News,   INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts56  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m2.png   group-title=Hindi Movies,   SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+
+
+
+#EXTINF:-1  tvg-id=ts506  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11921-j9l5ek7k-v5/imageContent-11921-j9l5ek7k-m8.png   group-title=ENG Movies,   &Flix HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046 
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts914  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62861-kpdll0iw-v1/imageContent-62861-kpdll0iw-m1.png   group-title=Regional Tamil,   Sony Ten 4
+
+
+
+
+#EXTINF:-1  tvg-id=ts817  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52874-k9afcvs0-v2/imageContent-52874-k9afcvs0-m6.png   group-title=Entertainment,   DD Retro
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+
+
+#EXTINF:-1  tvg-id=ts63  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png   group-title=Entertainment,   Zee TV HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeetvhd
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts175  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png   group-title= Hindi Movies,   Zee Bollywood
+https://zee5-rds.herokuapp.com/?c=0-9-zeeclassic
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts238  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png   group-title=Kids,   Cartoon Network
+
+
+
+#EXTINF:-1  tvg-id=ts681  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png   group-title=Kids,   Cartoon Network HD+
+
+
+
+#EXTINF:-1  tvg-id=ts259  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png   group-title=News,   Zee News
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeenews 
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts480  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png   group-title=Lifestyle,   TLC HD
+
+
+
+#EXTINF:-1  tvg-id=ts932  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png   group-title=News,   Times Now Navbharat HD
+https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/be9d49a5-240f-4ec3-b28c-91a6a4585482:SIN/variant/b5095a1675d6309dc14ce2850e27eab7/bandwidth/696000.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts602  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12213-j9qm0d4w-v2/imageContent-12213-j9qm0d4w-m2.png   group-title=Entertainment,   Zee Cafe
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecafehd 
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts153  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png   group-title=News,   Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts605  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png   group-title=Knowledge,   National Geographic HD
+
+
+
+
+#EXTINF:-1  tvg-id=ts514  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png   group-title=News,   Zee Hindustan
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeehindustan 
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts179  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png   group-title=News,   NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+
+
+
+
+#EXTINF:-1  tvg-id=ts228  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png   group-title=Lifestyle,   Discovery Turbo
+
+
+
+
+#EXTINF:-1  tvg-id=ts556  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v5/imageContent-12074-j9oat6qw-m5.png   group-title=Entertainment,   SET
+https://rebrand.ly/SONY-SD
+
+#EXTINF:-1  tvg-id=ts633  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png   group-title=Entertainment,   Investigation Discovery
+
+
+
+#EXTINF:-1  tvg-id=ts64  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png   group-title=Hindi Movies,   Zee Anmol Cinema
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeanmolcinema 
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts15  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v2/imageContent-43-j5fca4k0-m3.png   group-title=Entertainment,   SET HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999002&videoid=1301&vootid=1301&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxODI4ZWY0ZmM5ZjM0ZWE1YTNmZTZiZjUyM2FhZWM1MyIsImVtYWlsIjoicnN1Ymhha2FudGExMDBAZ21haWwuY29tIiwiZGV2aWNlSWQiOiJXaW5kb3dzIE5UIDYuMSIsImtVc2VySWQiOiI2NjAxNzY5MiIsImlhdCI6MTYzNjc5OTc3MCwiZXhwIjoxNjM3NjYzNzcwLCJpc3MiOiJ2b290In0.vxY8amv3VJ8kFZrNwf7t8JnDij0leBzASxXcwcDM6eA
+#EXTINF:-1  tvg-id=ts52  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png   group-title=Entertainment,   Colors HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output/index.mpd?hdnts=st=1636799666~exp=1636886066~acl=/*~hmac=7c711230e7db6c0e18f9e7d7b6b2280811443c3f238f378a03a811e81094ccce
+
+
+
+#EXTINF:-1  tvg-id=ts731  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png   group-title=Entertainment,   Manoranjan TV
+https://itvoign.multitvsolution.com/idvo/manoranjantv.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts132  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v2/imageContent-441-j5jt3mmg-m2.png   group-title=Movies,   SONY MAX
+http://65.2.4.240/jioo.php?c=Sony_Max_SD&q=1200&e=junk.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts100  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png   group-title=Movies,   Zee Action
+
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeaction 
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts8  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png   group-title=Entertainment,   STAR Plus HD
+https://rebrand.ly/starplus-1
+
+
+
+#EXTINF:-1  tvg-id=ts219  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png   group-title=Knowledge,   Discovery Channel
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts135  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png   group-title=Lifestyle,   TLC
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts120  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v2/imageContent-402-j5jq1gko-m2.png   group-title=Hindi Movies,   SONY MAX 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+
+
+#EXTINF:-1  tvg-id=ts923  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png   group-title=Lifestyle,   TravelXP 4K HDR
+
+
+
+
+#EXTINF:-1  tvg-id=ts382  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11544-j9ju5kvc-v2/imageContent-11544-j9ju5kvc-m3.png   group-title=Lifestyle,   Zee Zest HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-348 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts689  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png   group-title=News,   Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts126  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png   group-title=Knowledge,   EPIC
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts208  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png   group-title=News,   NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id=ts190  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png   group-title=English News,   Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
