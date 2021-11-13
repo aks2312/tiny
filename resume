@@ -371,7 +371,9 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999002&videoid=1301&vootid=1301&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxODI4ZWY0ZmM5ZjM0ZWE1YTNmZTZiZjUyM2FhZWM1MyIsImVtYWlsIjoicnN1Ymhha2FudGExMDBAZ21haWwuY29tIiwiZGV2aWNlSWQiOiJXaW5kb3dzIE5UIDYuMSIsImtVc2VySWQiOiI2NjAxNzY5MiIsImlhdCI6MTYzNjc5OTc3MCwiZXhwIjoxNjM3NjYzNzcwLCJpc3MiOiJ2b290In0.vxY8amv3VJ8kFZrNwf7t8JnDij0leBzASxXcwcDM6eA
 #EXTINF:-1  tvg-id=ts52  tvg-logo=http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png   group-title=Entertainment,   Colors HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output/index.mpd?hdnts=st=1636799666~exp=1636886066~acl=/*~hmac=7c711230e7db6c0e18f9e7d7b6b2280811443c3f238f378a03a811e81094ccce
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output/index.mpd|user-agent="KAIOS"
+
+
 
 
 
