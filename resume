@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Chrome/95.0.4638.54
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
