@@ -1303,4 +1303,11 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="LIFESTYLE",Citra Culinary & Travel
 https://dukun.masuk.id/terserahguelah/hiburan/ctravel.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMoviesSTIRR.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Free Movies (STIRR)" tvg-country="US" tvg-language="English" group-title="FREE Movies",FilmRise Free Movies (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseFreeMoviesonRedbox.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Free Movies on Redbox" tvg-country="US" tvg-language="English" group-title="FREE Movies",FilmRise Free Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="DramaLife.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true" tvg-name="Drama Life" tvg-country="US" tvg-language="English" group-title="FREE Movies",Drama Life
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
