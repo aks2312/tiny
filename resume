@@ -2710,3 +2710,30 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , MTV BEATS HD (IN)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 ,GOLDMINE dubbed movies ,group-title="FREE SOURCE",
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+
+
+#EXTINF:-1 ,GOLDMINE Bollywood  ,group-title="FREE SOURCE",
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+
+
+#EXTINF:-1 ,NEWS18 BIHAR JHARKHAND  ,group-title="FREE SOURCE",
+
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/News18_Bihar_Jharkhand_NW18_MOB-audio_98835_hin=98800-video=560800.m3u8
+
+
+
+
+
+
+
+
+
+
+
