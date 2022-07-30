@@ -67,7 +67,7 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Chrome/95.0.4638.54
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
-#EXTINF:-1 tvg-id="144" tvg-logo="https://telegra.ph/file/62cc9fabb60c73aac5420.jpg" group-title="ARY",ARY DIGITAL HD
+#EXTINF:-1 tvg-id="144" tvg-logo="https://telegra.ph/file/62cc9fabb60c73aac5420.jpg" group-title="FREE",ARY DIGITAL HD
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8|referer=https://live.arydigital.tv
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Voot", Sports18 1 HD
